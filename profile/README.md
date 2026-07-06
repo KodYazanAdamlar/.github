@@ -1,3 +1,3 @@
-# KodYazanAdamlar Organizasyonuna Hoş Geldiniz!
+# Kod Yazan Adamlar Organizasyonuna Hoş Geldiniz!
 
 **Ciddiyeti sokakta bulamazsın.**
